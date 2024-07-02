@@ -1,9 +1,12 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background: linear-gradient(135deg, #3494e6, #ec6ead);
+    background-size: cover;
     margin: 0;
     padding: 20px;
+    color: #fff;
 }
+
 
 .gallery-container {
     max-width: 1000px;
